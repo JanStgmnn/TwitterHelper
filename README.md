@@ -5,6 +5,7 @@
 * more soon
 
 **Disclaimer: You will need a Twitter Developer Account with API access for this. A version that uses login details will follow soon!**
+**If you need help setting up a developer account, don't hesitate to message me on Discord: crazii#0001**
 
 ## Installation
 ### Executable Option
