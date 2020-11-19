@@ -4,6 +4,8 @@
 * Delete all your tweets (Does not include comments)
 * more soon
 
+**Disclaimer: You will need a Twitter Developer Account with API access for this. A version that uses login details will follow soon!**
+
 ## Installation
 ### Executable Option
 1. Go to Releases and download the latest release
